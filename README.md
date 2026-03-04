@@ -3,6 +3,16 @@
 
 Sistema completo com Backend (API REST) + Front (React simples).
 
+## Tecnologias
+
+- Python
+- Flask
+- JWT
+- SQLAlchemy
+- React
+- SQLite
+- API REST
+
 ## Regras
 - Usuário (role: user) cria chamados
 - Admin (role: admin) responde e fecha chamados
